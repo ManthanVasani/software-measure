@@ -22,10 +22,11 @@ export default function Adminbar() {
           <li>
             <Link to="/addplants">Add Plants</Link>
           </li>
-          <li>
+          
           <li>
             <Link to="/viewprojects">View Projects</Link>
           </li>
+          <li>
             <Link to="/viewplants">View Plants</Link>
           </li>
           <li>
